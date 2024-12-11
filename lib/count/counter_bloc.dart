@@ -1,5 +1,5 @@
-import 'package:block/bloc_event.dart';
-import 'package:block/bloc_state.dart';
+import 'package:block/count/bloc_event.dart';
+import 'package:block/count/bloc_state.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 ///  Step.3:
